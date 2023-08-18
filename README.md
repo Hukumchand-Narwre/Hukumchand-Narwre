@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hukumchand-narwre&label=Profile%20views&color=0e75b6&style=flat" alt="hukumchand-narwre" /> </p>
 
-- 🔭 I’m currently working on **LIT RENTAL Project**
+- 🔭 I’m currently working on **LIT RENTAL Android Application**
 
 - 🌱 I’m currently learning **React-native**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **hukumchandnarwre@gmail.com**
 
-- 📄 Know about my experiences [http://bit.ly/HukumchandNarwreResume](http://bit.ly/HukumchandNarwreResume)
+- 📄 Know about my experiences [https://bit.ly/Hukumchand-Narwre-Resume](http://bit.ly/HukumchandNarwreResume)
 
 - ⚡ Fun fact **I think I am funny**
 
