@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **hukumchandnarwre@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/Hukumchand-Narwre-Resume](http://bit.ly/HukumchandNarwreResume)
+- 📄 Know about my experiences [https://bit.ly/Hukumchand-Narwre-Resume](http://bit.ly/Hukumchand-Narwre-Resume)
 
 - ⚡ Fun fact **I think I am funny**
 
