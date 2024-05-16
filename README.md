@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hukumchand-narwre&label=Profile%20views&color=0e75b6&style=flat" alt="hukumchand-narwre" /> </p>
 
-- 🔭 I’m currently working with ** vidyo.ai **
+- 🔭 I’m currently working with **vidyo.ai**
 
-- 🌱 I’m currently learning **new things about video **
+- 🌱 I’m currently learning **new things about video**
 
 - 💬 Ask me about **react, redux, redux-tool-kit GSAP**
 
