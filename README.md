@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **new things about video**
 
-- 💬 Ask me about **react, redux, redux-tool-kit GSAP**
+- 💬 Ask me about **react, redux, redux-tool-kit, GSAP**
 
 - 📫 How to reach me **hukumchandnarwre@gmail.com**
 
